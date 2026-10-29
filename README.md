@@ -12,8 +12,10 @@ tunnel and a boutique, collecting three notes that spell out the truth.
 
 ## Play
 
-Open `index.html` in any modern browser — no build step, no server needed.
-Everything (art, animation, music) is embedded in the one file.
+**▶ Play it in your browser: https://aquabunnyx3.github.io/amnesia-game/**
+
+Or open `index.html` locally in any modern browser — no build step, no server
+needed. Everything (art, animation, music) is embedded in the one file.
 
 - Tap / click the text box (or press Space / Enter) to advance the story.
 - Music starts on your first tap. The **Music** button by Restart mutes all
